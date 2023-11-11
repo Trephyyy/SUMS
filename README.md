@@ -5,7 +5,7 @@
 1. Quick unit editing and quantity change
 2. Simple unit creation
 3. Secure account system - only the root account can create other accounts
-4. Changable passwords
+4. Changeable passwords
 5. Responsible UI
 
 ## Guide
