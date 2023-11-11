@@ -1,7 +1,7 @@
 # SUMS - The **S**imple **U**nit **M**anagement **S**ystem
 #### Free and open source
 
-## Functions
+## Features
 1. Quick unit editing and quantity change
 2. Simple unit creation
 3. Secure account system - only the root account can create other accounts
@@ -12,7 +12,7 @@
 1. Clone the repository.
 2. Create .env file and copy the .env.example values.inside. Make sure to link your database.
 3. Run `npm install` and `composer install` to supply the needed packages.
-4. Run `php artisan migrate:fresh` to make sure all is fine.
+4. Run `php artisan migrate:fresh` to make sure the database is working successfully.
 3. Run `npm run dev` and `php artisan serve` to start the dev server.
 
 ## Useful info
