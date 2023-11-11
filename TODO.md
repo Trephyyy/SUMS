@@ -1,4 +1,0 @@
-# PLEASE LOOK AT THIS BEFORE PUBLISHING TO PROD
-
-1. Protect units CRUD
-2. Fix Edit UI
